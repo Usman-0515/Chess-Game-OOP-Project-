@@ -1,0 +1,20 @@
+White Player : Usmna
+Black Player : Uzwa
+Winner       : Usmna
+Winning Side : White
+---------------------------------
+White Player : usman
+Black Player : uzwa
+Winner       : usman
+Winning Side : White
+---------------------------------
+White Player : abd
+Black Player : sad
+Winner       : abd
+Winning Side : White
+---------------------------------
+White Player : da
+Black Player : sda
+Winner       : da
+Winning Side : White
+---------------------------------
